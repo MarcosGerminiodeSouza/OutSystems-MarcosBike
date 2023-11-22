@@ -1,4 +1,4 @@
-# Sistema para site de bicicletas com OutSystems
+# Sistema para Site de Bicicletas com OutSystems
 
 **MarcosBike - Aplicação de um site de bicicletas para fazer vendar de produtos e serviços relacionados a bicicleta**
 
