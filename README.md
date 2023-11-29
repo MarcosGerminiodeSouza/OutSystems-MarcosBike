@@ -10,6 +10,11 @@
 5. Usuários podem gerenciar estoque.
 6. Navegar de maneira intuitiva.
 
+## Utilizar Login de Teste
+
+Username: teste
+Password: 123
+
 ## Links Úteis
 
 - Site da Aplicação - [MarcosBike](https://personal-qevrasqq.outsystemscloud.com/MarcosBike/)
